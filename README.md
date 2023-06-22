@@ -6,7 +6,11 @@
 <h2>My Skills</h2>
 <h4>PUBLIC SPEAKING</h4>
 <h4>LEADERSHIP</h4>
-
 <h4>CONTENT WRITER</h4
-
 <h4>WEB DEVELOPMENT</h4>
+
+<h3 align="left">Random stuff 👇</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharrai1609&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek tiwari" /> </p>
+
+- My <a href="(https://abhishektiwari12.netlify.app/#about)https://abhishektiwari12.netlify.app/#about"><b>resume</b></a>
